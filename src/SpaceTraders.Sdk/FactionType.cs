@@ -1,6 +1,6 @@
 namespace SpaceTraders.Sdk.Types;
 
-public enum Faction
+public enum FactionType
 {
     Cosmic,
     Void,
