@@ -1,6 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-using SpaceTraders.Sdk.Types;
-
 namespace SpaceTraders.Sdk.Registration;
 
 public record RegisterNewAgent
